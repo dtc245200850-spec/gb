@@ -1,0 +1,5 @@
+// Khung bố cục chính
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
